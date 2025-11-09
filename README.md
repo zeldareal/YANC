@@ -61,14 +61,4 @@ probably nothing! but it's:
 
 <br>
 
-## want more info?
 
-read the source code lmao
-<br>
-## installation
-
-it's a flake. you know what to do.
-
-## dont use nix?
-
-switch to nix... but if youre too lazy for that you can go into this repo i made with literally 1 init.lua file!!  https://github.com/zeldareal/peasant-YANC
