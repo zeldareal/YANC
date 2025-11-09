@@ -60,6 +60,10 @@ probably nothing! but it's:
 
 <br>
 
+## want more info?
+
+read the source code lmao
+<br>
 ## installation
 
 it's a flake. you know what to do.
