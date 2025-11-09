@@ -37,6 +37,7 @@ probably nothing! but it's:
 -  lazygit integration
 -  session persistence
 -  tokyo night storm
+-  lazygit integration 
 
 <br>
 
