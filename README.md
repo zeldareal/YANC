@@ -32,7 +32,7 @@ probably nothing! but it's:
 -  harpoon for instant file jumping
 -  telescope + ripgrep fuzzy finding
 -  neo-tree + oil.nvim (browse + edit as files)
--  LSP ready (lua, nix out of the box)
+-  LSP ready (lua, nix, rust, C, python, java and js out of the box)
 -  auto-formatting on save
 -  lazygit integration
 -  session persistence
