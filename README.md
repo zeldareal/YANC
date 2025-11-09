@@ -26,6 +26,19 @@ probably nothing! but it's:
 
 <br>
 
+## features
+
+
+-  harpoon for instant file jumping
+-  telescope + ripgrep fuzzy finding
+-  neo-tree + oil.nvim (browse + edit as files)
+-  LSP ready (lua, nix out of the box)
+-  auto-formatting on save
+-  lazygit integration
+-  session persistence
+-  tokyo night storm
+
+<br>
 
 ## showcase
 
